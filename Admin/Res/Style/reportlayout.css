@@ -1,0 +1,27 @@
+.stock{
+    border: 2px solid black ;
+    border-radius: 15px;
+    background-color: rgba(153, 0, 255, 0.5);
+    margin: 20px 20px;
+    text-align: left;
+    padding: 20px 20px;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
+    
+
+}
+.stock p{
+    margin: 5px 5px;
+    text-shadow: black 2px 2px;
+}
+h1 {
+    background-color: #613fb8;
+    border: solid black 2px;
+    width: fit-content;
+    border-radius: 7px;
+    margin-left: 450px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    color: whitesmoke;
+    text-shadow: black 2px 2px;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
+}

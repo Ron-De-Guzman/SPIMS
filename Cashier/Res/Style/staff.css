@@ -1,0 +1,33 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.profiles{
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: #b7a3ec90;
+    padding: 50px 50px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+
+   
+    
+}
+.container p {
+    margin-bottom: 10px;
+    font-size: larger ;
+    color: white;
+}
+h1 {
+    background-color: white;
+    border: solid black 2px;
+    width: fit-content;
+    border-radius: 7px;
+    margin-left: 380px;
+
+    
+    
+}

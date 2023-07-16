@@ -1,0 +1,47 @@
+.tabPanel a{
+    color: white;
+    background-color: #613fb8;
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 0 10px 8px 0 rgba(0, 0, 0, 0.2);
+    background-size: fit-content;
+    font-size:  medium;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Verdana;
+  
+}
+.tabPanel a:hover{
+    background-color: black;
+    color: white;
+}
+table, th, td , tr{
+    border:  2px solid black;
+    width: 900px;
+    padding-top: 10px;
+    border-collapse: collapse;
+    padding: 10px 5px;
+    font-size: small;
+    margin-left: 200px;
+    
+
+    
+    
+  }
+  tr {
+    text-shadow: black 2px 1px;
+    
+  }
+ caption{
+    text-decoration: none;
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    background: black;
+    border-radius: 1px;
+    color: white ;
+    font-family: Verdana;
+    
+    
+
+  }
